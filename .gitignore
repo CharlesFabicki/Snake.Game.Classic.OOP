@@ -3,3 +3,6 @@ __pycache__/
 
 # Byte-compiled files
 *.pyc
+
+# IDE-specific directories (for PyCharm, IntelliJ IDEA, etc.)
+.idea/
