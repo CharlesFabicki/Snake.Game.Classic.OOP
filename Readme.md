@@ -2,6 +2,9 @@
 
 This is a Python implementation of the classic Snake game using the Turtle graphics library. In this game, you control a snake that moves around the screen, eating food to grow while avoiding collisions with walls and itself.
 
+## Screenshot
+![SnakeOOP](https://github.com/CharlesFabicki/Snake.Game.Classic.OOP/assets/103677730/ac30a785-e988-45e3-96cd-04c7812c6f2f)
+
 ## How to Play
 
 1. Clone or download this repository to your local machine.
