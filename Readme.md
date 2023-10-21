@@ -4,7 +4,11 @@ This is a Python implementation of the classic Snake game using the Turtle graph
 
 ## Screenshot
 ![play](https://github.com/CharlesFabicki/Snake.Game.Classic.OOP/assets/103677730/6f095ec7-813e-49f7-951e-f86254b1a167)
+
+
 ![SnakeOOP](https://github.com/CharlesFabicki/Snake.Game.Classic.OOP/assets/103677730/ac30a785-e988-45e3-96cd-04c7812c6f2f)
+
+
 ![GO](https://github.com/CharlesFabicki/Snake.Game.Classic.OOP/assets/103677730/9c02f516-38ac-4192-a125-60dbb2a21b43)
 ## How to Play
 
